@@ -1,4 +1,4 @@
 flask
-Flask-SQLAlchemy
-flask_login
+flask-sqlalchemy==3.1.1
+flask-login
 os
